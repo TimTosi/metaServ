@@ -1,13 +1,3 @@
-//
-// NetworkPolicies.hpp for NetworkPolicies in /home/tosi_t//Prog/C++/BomberMan/Network/Tests/BombermanNetwork/inc
-// 
-// Made by timothee tosi
-// Login   <tosi_t@epitech.net>
-// 
-// Started on  Thu May 16 22:28:45 2013 timothee tosi
-// Last update Sun Nov 24 22:42:39 2013 jonathan hubner
-//
-
 #ifndef			UXNETWORKPOLICIES_HPP_
 # define		UXNETWORKPOLICIES_HPP_
 

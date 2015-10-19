@@ -14,7 +14,8 @@ SRC			=	main.cpp								\
 				../../src/concurrency/Mutex.cpp 		\
 				../../src/concurrency/ScopedLock.cpp	\
 				./src/testTaskRun.cpp					\
-				./src/testCounter.cpp
+				./src/testCounter.cpp					\
+				./src/DummyClass.cpp
 
 OBJS		=	$(SRC:.cpp=.o)
 
